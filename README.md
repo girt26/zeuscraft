@@ -1,2 +1,2 @@
-# touchcraft
-experimental eaglercraft fork with touchscreen capability
+# zeuscraft
+experimental eaglercraft 26.2 build
